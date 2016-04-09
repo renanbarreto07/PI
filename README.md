@@ -1,2 +1,0 @@
-# PI
-exercicio de PI
